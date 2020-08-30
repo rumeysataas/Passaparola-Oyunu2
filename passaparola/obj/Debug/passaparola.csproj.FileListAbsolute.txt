@@ -1,0 +1,10 @@
+C:\Users\Rumeysa TAS\source\repos\passaparola\bin\Debug\passaparola.exe.config
+C:\Users\Rumeysa TAS\source\repos\passaparola\bin\Debug\passaparola.exe
+C:\Users\Rumeysa TAS\source\repos\passaparola\bin\Debug\passaparola.pdb
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.csprojAssemblyReference.cache
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.Form1.resources
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.Properties.Resources.resources
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.csproj.GenerateResource.cache
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.exe
+C:\Users\Rumeysa TAS\source\repos\passaparola\obj\Debug\passaparola.pdb
